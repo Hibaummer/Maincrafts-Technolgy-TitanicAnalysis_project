@@ -43,11 +43,12 @@
 ## 📈 Key Insights
 #### Females had a significantly higher survival rate than males
 #### Passengers in higher classes (1st class) had better survival chances
+#### Younger passengers had relatively higher survival rates
+#### Socio-economic factors played a major role in survival
 ## 💡 Why This Project Matters
 #### 1.Demonstrates real-world data cleaning skills
 #### 2.Builds strong foundation in EDA
 #### 3.Enhances data visualization capabilities
 #### 4.Helps in making data-driven decisions
-#### Younger passengers had relatively higher survival rates
-#### Socio-economic factors played a major role in survival
+
 
